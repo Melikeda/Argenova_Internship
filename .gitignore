@@ -1,0 +1,21 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flutter
+gir_in_chatbot/build/
+gir_in_chatbot/.dart_tool/
+gir_in_chatbot/.packages
+gir_in_chatbot/ios/Pods/
+gir_in_chatbot/android/.gradle/
+gir_in_chatbot/android/app/build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
