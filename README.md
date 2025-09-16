@@ -1,4 +1,4 @@
-# 🤖 AI Mesai Chatbot – Genel Proje README
+# 🤖 AI Mesai Chatbot
 
 **AI Mesai Chatbot**, kullanıcıların Excel veya CSV formatında tutulan **mesai verilerini analiz etmelerine yardımcı olan** yapay zekâ destekli bir sohbet uygulamasıdır.  
 Uygulama, hem **Flutter frontend** hem de **FastAPI backend** ile çalışır.
