@@ -3,6 +3,8 @@
 Bu proje, **FastAPI** tabanlı bir yapay zekâ destekli backend uygulamasıdır.  
 Amaç, Excel/CSV’de tutulan **personel mesai verilerini** kullanarak doğal dilde sorulan sorulara yanıt vermektir.
 
+![Excel Ekran Görüntüsü](AI_MesaiChatbot/excel.png)
+
 Uygulama, **RAG (Retrieval-Augmented Generation)** mimarisi ile çalışır:
 
 1. Kullanıcının sorusu embedding’e dönüştürülür,  
